@@ -11,7 +11,7 @@ Prashanth :Content Collection
 
 # ED-TECH PLATFORM-PROJECT
 
-# Project Title: “ED-TECH PLATFORM” 
+# Project Title: “MERCURY ED-TECH PLATFORM” 
 is a web app by using azure services.
 1.	Project Demo URL: https://edtechplatform.z13.web.core.windows.net/
 2.	Demo Video URL: https:https://youtube.com/watch?v=u1a2YDKggIw&feature=shared
@@ -91,12 +91,11 @@ The Azure AI Language Chatbot is a cutting-edge conversational agent powered by 
 Description Here I am attaching the final working website's screenshot for the reference.
 
 **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/1dd12c6a-ebd2-4551-8165-81126614a6d8)** 
- 
- 
- 
- 
+**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/9f599d70-ed33-4aef-b3de-82b2cf4bf66a)**
+**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/ed8a0183-9e3d-492c-bc92-7ffe3f2b4359)**
 
-# Resource Visualizer
+ 
+ # Resource Visualizer
 
 
 **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/8205b893-8304-43ec-b819-1ee710d1548f)**
@@ -106,6 +105,10 @@ Description Here I am attaching the final working website's screenshot for the r
 # Final Project Statement:
 "In conclusion, Ed Tech Platform has proven to be a transformative force in the realm of education, seamlessly integrating technology to enhance learning experiences. Its user-friendly interface, robust features, and adaptive learning tools have empowered both educators and students alike.
 
+
+This is all about my project
+
+Thanking you
 
 
 
